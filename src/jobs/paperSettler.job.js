@@ -1,0 +1,1 @@
+﻿export { settlePaperTrades } from '../services/paperTrade.service.js';

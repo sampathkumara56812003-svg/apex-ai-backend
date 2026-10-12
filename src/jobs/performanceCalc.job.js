@@ -1,0 +1,1 @@
+﻿export { calculatePerformance } from '../services/performance.service.js';
